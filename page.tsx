@@ -1,2 +1,2 @@
 import Dashboard from '@/lib/dashboard';
-export default function UserPage(){return <Dashboard role="user"/>}
+export default function ManagerPage(){return <Dashboard role="manager"/>}
